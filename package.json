@@ -41,7 +41,7 @@
     "@types/storybook__react": "^4.0.2",
     "@types/styled-components": "^4.1.19",
     "@typescript-eslint/eslint-plugin": "^2.4.0",
-    "@typescript-eslint/parser": "^2.4.0",
+    "@typescript-eslint/parser": "^2.5.0",
     "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.0.6",
     "concurrently": "^5.0.0",
