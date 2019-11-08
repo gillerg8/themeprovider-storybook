@@ -12,7 +12,7 @@
 
 ---
 
-The ThemeProvider storybook addon let's you show your Styled-Components theme on your favourite [Storybook](https://storybook.js.org) UI at runtime.
+The ThemeProvider storybook addon let's you show your Emotion theme on your favourite [Storybook](https://storybook.js.org) UI at runtime.
 
 ![Screenshot](https://i.imgur.com/y1Je5xR.gif)
 
