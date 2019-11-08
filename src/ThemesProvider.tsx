@@ -1,7 +1,7 @@
 import addons from "@storybook/addons";
 import { List } from "immutable";
 import * as React from "react";
-import { ThemeProvider } from "styled-components";
+import { ThemeProvider } from "emotion-theming";
 import { Theme } from "./types/Theme";
 
 export interface ThemesProviderProps {

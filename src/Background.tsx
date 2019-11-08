@@ -2,7 +2,7 @@ import addons from "@storybook/addons";
 import { List} from "immutable";
 import * as React from "react";
 import ReactJson from "react-json-view";
-import styled from "styled-components";
+import styled from "@emotion/styled";
 import { Modal } from "./components/Modal";
 import { Theme } from "./types/Theme";
 

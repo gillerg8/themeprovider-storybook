@@ -1,7 +1,7 @@
 {
   "name": "themeprovider-storybook",
   "version": "1.2.4",
-  "description": "Use your styled-components themes on your favourite storybook",
+  "description": "Use your emotion themes on your favourite storybook",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -24,14 +24,15 @@
   "peerDependencies": {
     "@storybook/addons": "^5.x",
     "@storybook/react": "^5.x",
-    "react": "^16.x",
-    "styled-components": "^4.x"
+    "react": "^16.x"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
     "@semantic-release/changelog": "^3.0.4",
     "@semantic-release/git": "^7.0.16",
     "@storybook/addons": "^5.0.3",
@@ -41,13 +42,13 @@
     "@types/react": "^16.9.9",
     "@types/react-dom": "^16.9.2",
     "@types/storybook__react": "^4.0.2",
-    "@types/styled-components": "^4.1.19",
     "@typescript-eslint/eslint-plugin": "^2.4.0",
     "@typescript-eslint/parser": "^2.4.0",
     "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.0.6",
     "concurrently": "^5.0.0",
     "cz-conventional-changelog": "^3.0.2",
+    "emotion-theming": "^10.0.19",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "enzyme-to-json": "^3.4.3",
@@ -61,7 +62,6 @@
     "rimraf": "^3.0.0",
     "semantic-release": "^15.13.27",
     "sinon": "^7.5.0",
-    "styled-components": "^4.3.1",
     "ts-jest": "^24.1.0",
     "typescript": "^3.6.4"
   },
@@ -71,7 +71,8 @@
   },
   "keywords": [
     "storybook",
-    "styled-components",
+    "emotion",
+    "styled",
     "react",
     "typescript"
   ],
