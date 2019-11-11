@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/gillerg8/themeprovider-storybook/compare/v1.2.4...v1.3.0) (2019-11-11)
+
+
+### Features
+
+* allow for using emotion themes ([a2ef190](https://github.com/gillerg8/themeprovider-storybook/commit/a2ef190d366818de390fb715135169c4d61209a3))
+* update package json username ([fcb078b](https://github.com/gillerg8/themeprovider-storybook/commit/fcb078b61e4018e13fe525bb84e116c014e45868))
+
 ## [1.2.4](https://github.com/semoal/themeprovider-storybook/compare/v1.2.3...v1.2.4) (2019-10-20)
 
 
