@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/gillerg8/themeprovider-storybook/compare/v1.4.0...v1.5.0) (2019-11-11)
+
+
+### Features
+
+* change to public package ([e3d1036](https://github.com/gillerg8/themeprovider-storybook/commit/e3d1036069e4e4fc3983f48e1a383e48417c7dff))
+
 # [1.4.0](https://github.com/gillerg8/themeprovider-storybook/compare/v1.3.0...v1.4.0) (2019-11-11)
 
 
