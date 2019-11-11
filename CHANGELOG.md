@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/gillerg8/themeprovider-storybook/compare/v1.3.0...v1.4.0) (2019-11-11)
+
+
+### Features
+
+* update changelog ([f55e86a](https://github.com/gillerg8/themeprovider-storybook/commit/f55e86a98e30c6c971ab23c51cdc7ffc7c09eb17))
+* update npm package name ([05a5efa](https://github.com/gillerg8/themeprovider-storybook/commit/05a5efab48a97a04d6fdb760f3c6674c14958de0))
+
 # [1.3.0](https://github.com/gillerg8/themeprovider-storybook/compare/v1.2.4...v1.3.0) (2019-11-11)
 
 
