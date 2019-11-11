@@ -1,7 +1,7 @@
 {
-  "name": "themeprovider-storybook",
+  "name": "@gillerg8/themeprovider-storybook",
   "version": "1.2.4",
-  "description": "Use your emotion themes on your favourite storybook",
+  "description": "Use your emotion themes on your favorite storybook",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
