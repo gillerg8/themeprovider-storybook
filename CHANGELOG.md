@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/gillerg8/themeprovider-storybook/compare/v1.5.0...v1.5.1) (2019-11-25)
+
+
+### Bug Fixes
+
+* remove height 100px from canvas in docs ([e9d71ce](https://github.com/gillerg8/themeprovider-storybook/commit/e9d71cee8ef084ecce8d262fb20dec53ad8db8ce))
+
 # [1.5.0](https://github.com/gillerg8/themeprovider-storybook/compare/v1.4.0...v1.5.0) (2019-11-11)
 
 
