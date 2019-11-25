@@ -20,7 +20,6 @@ type BaseComponentProps = ThemesProvider;
 
 const BackgroundContainer = styled.div<{ backgroundColor: string }>`
   background-color: ${({ backgroundColor }) => backgroundColor || "#fff"};
-  height: 100vh;
   margin: 0;
   padding: 0.25em;
 ` as React.FunctionComponent<{ backgroundColor: string }>;
